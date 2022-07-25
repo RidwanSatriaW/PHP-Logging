@@ -1,0 +1,4 @@
+[2022-07-25T16:21:09.002361+02:00] Ridwan\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2022-07-25T16:21:09.018666+02:00] Ridwan\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2022-07-25T16:21:09.019816+02:00] Ridwan\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2022-07-25T16:21:09.023061+02:00] Ridwan\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []
